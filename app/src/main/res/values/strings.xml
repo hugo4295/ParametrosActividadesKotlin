@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">ParametrosActividadesKotlin</string>
+    <string name="llamar_actividad">Llamar Actividad</string>
+</resources>
